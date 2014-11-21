@@ -48,6 +48,8 @@
       );
     }
   });
+  
+  window.Chosen = Chosen;
 })(
   window,
   React,
